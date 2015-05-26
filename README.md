@@ -25,7 +25,7 @@ Didi se reúne com o responsável da programação, do Design, e outros, e pergu
   - começar sistema de I.A. (inteligencia artificial). (consome muito tempo)
   - criar o sistema de importar os modelos 3D pro game (dificuldade média)
 * O responsável do Design:
-  -o responsável do Level Design(abaixo na organização hierárquica) o informou que ainda tem muito a fazer. (consome muita mão de obra e tempo)
+  - o responsável do Level Design(abaixo na organização hierárquica) o informou que ainda tem muito a fazer. (consome muita mão de obra e tempo)
   - na parte de arte está quase tudo pronto.
   - começar musica do jogo. (consome tempo, ainda não tem ninguém disposto a fazer)
 

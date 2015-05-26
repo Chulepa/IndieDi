@@ -1,7 +1,7 @@
 # IndieDi
 Ideia de organização pro jogo do IndieDi
 
-Eu apresento aqui uma sugestão de uma maneira pra Muvuca Games se organizar para o desenvolvimento de futuros jogos Indies, aonde tem como objetivo incentivar os colaboradores a contribuir cada vez mais, ser eficiente quanto a divisão de trabalhos e esforços, e ser divertido apara todos e principalmente para o Didi.
+Eu apresento aqui uma sugestão de uma maneira pra Muvuca Games se organizar para o desenvolvimento de futuros jogos Indies, aonde tem como objetivo incentivar os colaboradores a contribuir cada vez mais, ser eficiente quanto a divisão de trabalhos e esforços, e ser divertido para todos e principalmente para o Didi.
 
 ##Conceito
 

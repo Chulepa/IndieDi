@@ -19,14 +19,15 @@ Imaginemos agora que no começo da semana Didi tem em suas mãos 1000XP para dis
 
 Começa uma nova semana:
 Didi se reúne com o responsável da programação, do Design, e outros, e pergunta o que sera feito na semana que vira, e eles explicam:
-*O responsável da programação:
-  -arrumar bugs na física do jogo. (dificuldade fácil/média)
-  -começar sistema de I.A. (inteligencia artificial). (consome muito tempo)
-  -criar o sistema de importar os modelos 3D pro game (dificuldade média)
-*O responsável do Design:
+
+* O responsável da programação:
+  - arrumar bugs na física do jogo. (dificuldade fácil/média)
+  - começar sistema de I.A. (inteligencia artificial). (consome muito tempo)
+  - criar o sistema de importar os modelos 3D pro game (dificuldade média)
+* O responsável do Design:
   -o responsável do Level Design(abaixo na organização hierárquica) o informou que ainda tem muito a fazer. (consome muita mão de obra e tempo)
-  -na parte de arte está quase tudo pronto.
-  -começar musica do jogo. (consome tempo, ainda não tem ninguém disposto a fazer)
+  - na parte de arte está quase tudo pronto.
+  - começar musica do jogo. (consome tempo, ainda não tem ninguém disposto a fazer)
 
 Didi decide de repassar 400XP pro resp. de programação, e 600XP pro Design. Porem, ele só repassa metade (200 e 300 respectivamente) e o resto quando e si o trabalho for concluído com exito. 
 

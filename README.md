@@ -50,7 +50,7 @@ Há muitas pessoas empolgadas agora, mais quem disse que haverá o mesmo numero 
 Didi sera quase como um DungeonMaster, ao mesmo tempo que produz um jogo legal, ele joga com os colaboradores. E ai ele pode criar em cima desse modelo e colocar novas 'mecânicas' nesse jogo de desenvolvimento, como passar de level com 'x' XP, ou ganhar itens. (Ai vai da cabeça do Didi que não é fraca em imaginar). 
 
 ###Aprendizagem
-Esse método de distribuição de trabalho vai permitir ao Didi, e todos aos outros, aprender como funciona um desenvolvimento de game. Qual setor toma mais tempo, qual precisa de mais mão de obra, qual é rápido, etc. No final, com um análise de o que consumiu mais XP, pode se levantar todas essas respostas.
+Esse método de distribuição de trabalho vai permitir ao Didi, e todos os outros, aprender como funciona um desenvolvimento de game. Qual setor toma mais tempo, qual precisa de mais mão de obra, qual é rápido, etc. No final, com um análise de o que consumiu mais XP, pode se levantar todas essas respostas.
 
 ##Conclusão
 Esse método pode ser adaptado e usado livremente. Se vocês gostaream da ideia, ajudem a chegar no [IndieDi](http://twitter.com/home?status=@DiogoMRG olha uma ideia legal para a organização pro MuvucaGames https://goo.gl/iJbHqw) e se quiserem adicionar algo, me corrigir, tirar duvidas ou modificar, convido todos a criarem um 'Pull Request', ou Twitter: [@StefanWerW](http://twitter.com/home?status=@StefanWerW)

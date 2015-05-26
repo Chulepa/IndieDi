@@ -53,4 +53,4 @@ Didi sera quase como um DungeonMaster, ao mesmo tempo que produz um jogo legal, 
 Esse método de distribuição de trabalho vai permitir o Didi, e todos os outros, aprender como funciona um desenvolvimento de game. Qual setor toma mais tempo, qual precisa de mais mão de obra, qual é rápido, etc. No final, com um analise de o que consumiu mais XP, pode se levantar todas essas respostas.
 
 ##Conclusão
-Esse método pode ser adaptado e usado livremente. Se vocês gostarem, ajudem a chegar no IndieDi e se quiserem adicionar algo, me corrigir, tirar duvidas ou modificar, convido todos a criarem um 'Pull Request', ou Twitter: @StefanWerW
+Esse método pode ser adaptado e usado livremente. Se vocês gostarem, ajudem a chegar no IndieDi e se quiserem adicionar algo, me corrigir, tirar duvidas ou modificar, convido todos a criarem um 'Pull Request', ou Twitter: [@StefanWerW](http://twitter.com/home?status=@StefanWerW)

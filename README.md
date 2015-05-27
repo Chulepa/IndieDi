@@ -29,7 +29,7 @@ Didi se reúne com o responsável da programação, do Design, e outros, e pergu
   - na parte de arte está quase tudo pronto.
   - começar musica do jogo. (consome tempo, ainda não tem ninguém disposto a fazer)
 
-Didi decide de repassar 400XP pro resp. de programação, e 600XP pro Design. Porem, ele só repassa metade (200 e 300 respectivamente) e o resto quando e si o trabalho for concluído com exito. 
+Didi decide de repassar 400XP pro resp. de programação, e 600XP pro Design. Porem, ele só repassa metade (200 e 300 respectivamente) e o resto quando e se o trabalho for concluído com exito. 
 
 Os responsáveis irão então delegar as funções a colaboradores que farão o trabalho, ou a responsáveis abaixo deles, oferecendo e negociando uma quantidade correspondente de XP. O resp. do Design, por exemplo, dos 400XP vai pegar 10XP por seu trabalho, passar 150 pro resp. Level Design, 40 pra arte, e vai oferecer 150XP pra musica e feitos sonoros, pra atrair colaboradores nesse setor.
 
@@ -50,7 +50,7 @@ Há muitas pessoas empolgadas agora, mais quem disse que haverá o mesmo numero 
 Didi sera quase como um DungeonMaster, ao mesmo tempo que produz um jogo legal, ele joga com os colaboradores. E ai ele pode criar em cima desse modelo e colocar novas 'mecânicas' nesse jogo de desenvolvimento, como passar de level com 'x' XP, ou ganhar itens. (Ai vai da cabeça do Didi que não é fraca em imaginar). 
 
 ###Aprendizagem
-Esse método de distribuição de trabalho vai permitir o Didi, e todos os outros, aprender como funciona um desenvolvimento de game. Qual setor toma mais tempo, qual precisa de mais mão de obra, qual é rápido, etc. No final, com um analise de o que consumiu mais XP, pode se levantar todas essas respostas.
+Esse método de distribuição de trabalho vai permitir ao Didi, e todos os outros, aprender como funciona um desenvolvimento de game. Qual setor toma mais tempo, qual precisa de mais mão de obra, qual é rápido, etc. No final, com um análise de o que consumiu mais XP, pode se levantar todas essas respostas.
 
 ##Conclusão
 Esse método pode ser adaptado e usado livremente. Se vocês gostaream da ideia, ajudem a chegar no [IndieDi](http://twitter.com/home?status=@DiogoMRG olha uma ideia legal para a organização pro MuvucaGames https://goo.gl/iJbHqw) e se quiserem adicionar algo, me corrigir, tirar duvidas ou modificar, convido todos a criarem um 'Pull Request', ou Twitter: [@StefanWerW](http://twitter.com/home?status=@StefanWerW)
